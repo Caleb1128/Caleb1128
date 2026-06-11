@@ -11,8 +11,10 @@ Programming Languages:
 * HTML
 * CSS
 * Javascript
+
 Frameworks:
 - ASP.NET CORE.
+
 Cloud Services:
 * Amazon Web Services (AWS)
 *  Microsoft Azure.
