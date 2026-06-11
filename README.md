@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am Madiki Phoshoko, a student based in Pretoria, South Africa.
+Studying a Bachelor of Computer and Information Science in Application Development at Emeris Pretoria.
+I build Web and Mobile applications.
 
-<!--
-**Caleb1128/Caleb1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools and Technology🧑‍💻
+*Programming Languages:
+Java, C#, Kotlin, HTML, CSS, and JavaScript.
+*Frameworks:
+ASP.NET CORE.
+*Cloud Services:
+Amazon Web Services (AWS) and Microsoft Azure.
 
-Here are some ideas to get you started:
+You can reach me by sending me an email (mkbphoshoko@gmail.com) or you can reach me on LinkedIn!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
