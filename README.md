@@ -1,3 +1,5 @@
+## Hi, I am Madiki Phoshoko
+I am currently a Computer and Information Science in Application Development student at an institution of learning called Emeris (formerly known as Varsity College).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/madiki-phoshoko-1482832b1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkbphoshoko@gmail.com) 
